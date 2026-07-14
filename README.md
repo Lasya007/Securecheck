@@ -7,3 +7,6 @@ Python security tool that scores password strength via entropy and scans URLs fo
 - Built with Python + Streamlit
 
 ## Run locally
+
+## Live demo
+https://securecheck-w8xemdbkbd3whctmhessjp.streamlit.app/
